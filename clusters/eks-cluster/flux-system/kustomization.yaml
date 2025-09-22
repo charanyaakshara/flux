@@ -5,3 +5,4 @@ resources:
 - gotk-sync.yaml
 - ngnix/deployment.yaml
 - ngnix/service.yaml
+- ngnix/redis.yaml
